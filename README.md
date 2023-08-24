@@ -29,7 +29,7 @@ To provide visual insights into the dominant themes, the project employs visuali
 
 ### **Important note: Data Usage and Ethics**
 
-The project maintains a commitment to ethical data use procedures. This project minimizes the potential impact on external websites during web scraping and emphasizes adherence to legal and ethical standards. It is important to note that unauthorized data scraping is not approved. The information collected is used solely for private educational purposes and is not used for commercial purposes and is deleted after use.
+The project maintains a commitment to ethical data use procedures. This project minimizes the potential impact on external websites during web scraping and emphasizes adherence to legal and ethical standards.It is important to note that unauthorized data scraping is not approved. The information collected is used solely for private educational purposes and is not used for commercial purposes and it is deleted after use.
 
 ![הורדה (2)](https://github.com/Asaf1h/Billboard-100-Lyrics-Analysis/assets/88323673/db899202-becb-4155-ab3a-582ad6c9d3da)
 
