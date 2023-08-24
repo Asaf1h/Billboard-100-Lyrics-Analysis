@@ -15,11 +15,11 @@ Moving forward, the focus shifts to establishing a structured storage approach. 
 
 **Note:** At this stage, we're storing the Billboard 100 song details. We'll enrich the database with lyrics in the upcoming steps as we successfully retrieve them.
 
-###Step 3: Extracting Lyrics through Web Scraping
+### Step 3: Extracting Lyrics through Web Scraping
 
 Once the names of the songs and the names of the artists have been obtained, you can proceed to the next step. The project then employs advanced web scraping techniques to obtain song lyrics. By targeting specific websites known for hosting lyrics, it navigates their structures to extract the lyrics associated with each song. This process requires a deep understanding of the websites' data organization.
 
-###Step 4: Text Preprocessing and Stop Word Removal
+### Step 4: Text Preprocessing and Stop Word Removal
 Once the lyrics are collected, the next step involves text preprocessing. This stage includes removing special characters, symbols, and unnecessary words that do not contribute significant meaning. The goal is to prepare the lyrics for more meaningful analysis.
 
 
