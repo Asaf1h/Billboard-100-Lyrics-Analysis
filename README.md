@@ -26,9 +26,8 @@ Once the lyrics are collected, the next step involves text preprocessing. This s
 ### Step 5: Visualizing Most Frequent Words
 To provide visual insights into the dominant themes, the project employs visualization libraries like matplotlib and WordCloud. This step generates graphical representations showcasing the most frequently occurring words in the lyrics, revealing prevalent topics and themes across the songs.
 
-<br>
 
-#### **Data Usage and Ethics**
+### **Important note: Data Usage and Ethics**
 
 The project maintains a commitment to ethical data use procedures. This project minimizes the potential impact on external websites during web scraping and emphasizes adherence to legal and ethical standards. It is important to note that unauthorized data scraping is not approved. The information collected is used solely for private educational purposes and is not used for commercial purposes and is deleted after use.
 
